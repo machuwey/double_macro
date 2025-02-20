@@ -9,3 +9,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 cairo-lang-macro = "0.1.1"
+
+[workspace]
